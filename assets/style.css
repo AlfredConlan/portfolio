@@ -1,0 +1,29 @@
+.show-border {
+  border: 4px !important;
+  border-color: red !important;
+  border-style: solid !important;
+}
+
+.background-color-portfolio-card-1 {
+  background-color: var(--primary-color) !important;
+}
+.background-color-portfolio-card-2 {
+  background-color: var(--fourth-color) !important;
+}
+
+.background-purple-color {
+  background-color: #5d2e8c !important;
+}
+
+/* Color Palette  */
+:root {
+  --primary-color: #1D809F;
+  --secondary-color: #5d2e8c;
+  --third-color: #EF798A;
+  --fourth-color: #41EAD4;
+  --accent-color: #ECB807;
+
+  --github-button: red;
+  --live-site-button: red;
+}
+
