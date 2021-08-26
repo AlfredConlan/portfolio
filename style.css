@@ -15,6 +15,10 @@
   background-color: #5d2e8c !important;
 }
 
+.github-button-color {
+  background-color: var(--github-button);
+}
+
 /* Color Palette  */
 :root {
   --primary-color: #1D809F;
@@ -23,7 +27,7 @@
   --fourth-color: #41EAD4;
   --accent-color: #ECB807;
 
-  --github-button: red;
+  --github-button: #ECB807;
   --live-site-button: red;
 }
 
